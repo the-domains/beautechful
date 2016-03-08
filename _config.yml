@@ -1,0 +1,28 @@
+name: Beautechful
+favicon: null
+layout_spectrum: 0.1824574291240424
+typography_spectrum: 0.09649050910957158
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.054104950511828065
+  lightness: 0.457461791113019
+  saturation: 0.1541845346800983
+  rhythmicContrast: 0.363768792944029
+purpose: []
